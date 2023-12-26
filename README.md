@@ -82,4 +82,6 @@ For questions or feedback, please contact the project maintainers:
 
 -  Nandana Krishnan (Project developer)
   - Email: nandanakrishnan327@gmail.com
+-  Anagha Ajai (Project developer)
+  - Email: anaghaajay000@gmail.com
 
